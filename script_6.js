@@ -43,4 +43,4 @@ slice3.forEach(code => {
     };
 });
 
-console.log(proteinArray.join("-"))
+console.log(proteinArray.join("-"));
